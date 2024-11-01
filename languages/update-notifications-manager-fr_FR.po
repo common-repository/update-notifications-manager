@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Update Notifications Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-11 19:31+0100\n"
+"PO-Revision-Date: 2011-10-14 21:41+0100\n"
+"Last-Translator: Lihwem <dev@dev.net>\n"
+"Language-Team: GeekPress <contact@geekpress.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Users/jonathanbuttigieg/Desktop/CMS - Zend Framework/WordPress/Plugin/update-notifications-manager\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/jonathanbuttigieg/Desktop/CMS/WordPress/Plugin/update-notifications-manager\n"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS/WordPress/Plugin/update-notifications-manager/update-notifications-manager.php:56
+msgid "Update Notifications"
+msgstr "Notifications de mise à jour"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS/WordPress/Plugin/update-notifications-manager/update-notifications-manager.php:121
+msgid "Options saved. The changes will be available when you quit or reload this page."
+msgstr ""
+
+#: /Users/jonathanbuttigieg/Desktop/CMS/WordPress/Plugin/update-notifications-manager/update-notifications-manager.php:142
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les autorisations suffisantes pour accéder à cette page."
+
+#: /Users/jonathanbuttigieg/Desktop/CMS/WordPress/Plugin/update-notifications-manager/update-notifications-manager.php:149
+msgid "Update notifications Manager"
+msgstr "Gestion des notifications de mise à jour"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS/WordPress/Plugin/update-notifications-manager/update-notifications-manager.php:159
+#: /Users/jonathanbuttigieg/Desktop/CMS/WordPress/Plugin/update-notifications-manager/update-notifications-manager.php:162
+msgid "Check to disable notifications"
+msgstr "Cocher pour désactiver les notifications"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS/WordPress/Plugin/update-notifications-manager/update-notifications-manager.php:164
+msgid "Disable plugin updates"
+msgstr "Désactiver les mises à jour de plugin"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS/WordPress/Plugin/update-notifications-manager/update-notifications-manager.php:168
+msgid "Disable theme updates"
+msgstr "Désactiver les mises à jour de thème"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS/WordPress/Plugin/update-notifications-manager/update-notifications-manager.php:172
+msgid "Disable WordPress core update"
+msgstr "Désactiver les mises à jour de WordPress"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS/WordPress/Plugin/update-notifications-manager/update-notifications-manager.php:180
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#~ msgid "Options saved"
+#~ msgstr "Options sauvegardées"
